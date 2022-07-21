@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorite">Избранное</string>
+    <string name="image_marked">Помеченное в избранное</string>
+    <string name="image_not_marked">Не помеченное в избранное</string>
+    <string name="favorite_photos_title">Избранные изображения</string>
+    <string name="empty_favorite_explanation">Нет добавленных изображений в избранное</string>
+    <string name="connection_issue">Нет соединения, но вы можете все еще проверить локальные изображения</string>
+</resources>

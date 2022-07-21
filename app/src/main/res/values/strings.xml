@@ -1,0 +1,9 @@
+<resources>
+    <string name="favorite">Favorite</string>
+    <string name="app_name" translatable="false">PhotosViewer</string>
+    <string name="image_marked">Marked as favorite</string>
+    <string name="image_not_marked">Not marked as favorite</string>
+    <string name="favorite_photos_title">Favorite Photos</string>
+    <string name="empty_favorite_explanation">No favorite photos added yet</string>
+    <string name="connection_issue">No connection, but you still can check local images.</string>
+</resources>
